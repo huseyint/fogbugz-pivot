@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="png" NextItemId="1" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="kiwi.xml">
+      <Size Width="170" Height="170" />
+    </I>
+  </Items>
+</Collection>
