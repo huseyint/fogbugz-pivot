@@ -238,7 +238,7 @@
 			// 
 			this.BrowseSaveToFolderButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
 			this.BrowseSaveToFolderButton.Image = global::FogBugzPivot.Properties.Resources.Folder16;
-			this.BrowseSaveToFolderButton.Location = new System.Drawing.Point(379, 249);
+			this.BrowseSaveToFolderButton.Location = new System.Drawing.Point(379, 248);
 			this.BrowseSaveToFolderButton.Name = "BrowseSaveToFolderButton";
 			this.BrowseSaveToFolderButton.Size = new System.Drawing.Size(24, 24);
 			this.BrowseSaveToFolderButton.TabIndex = 7;
@@ -328,8 +328,8 @@
 			// 
 			// MainForm
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
+			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
 			this.ClientSize = new System.Drawing.Size(434, 471);
 			this.Controls.Add(this.StatusLabel);
 			this.Controls.Add(this.BusyAnimationControl);
